@@ -1,0 +1,20 @@
+const uint32_t animation[][4] = {
+	{
+		0x22,
+		0x469431c7,
+		0xfe0f03fc,
+		2000
+	},
+	{
+		0xc9cc88c8,
+		0x8f88c88c,
+		0x88c88c9c,
+		1000
+	},
+	{
+		0x9b19bb9b,
+		0xb83b9bb9,
+		0xbb9bb9b1,
+		1000
+	}
+};
